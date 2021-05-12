@@ -1,0 +1,11 @@
+django
+psycopg2
+Pillow
+cryptography
+djangorestframework
+django-rest-auth[with_social]
+djangorestframework-jwt
+django-cors-headers
+djangorestframework-api-key
+django-rest-passwordreset
+django-multiselectfield
